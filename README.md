@@ -100,6 +100,7 @@ From the landing page to the contact section, every part is structured to be inf
 
 By including interactive certificates, responsive navigation, and cross-device compatibility, the site meets modern usability standards while reflecting my skills as a developer.  
 
-It’s not just a portfolio — it’s a central hub for anyone who wants to connect, collaborate, or learn more about me.
+
+
 
 
