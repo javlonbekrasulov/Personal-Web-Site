@@ -354,6 +354,12 @@ article .icon {
   cursor: default;
 }
 
+.boldy {
+  color: red;
+  font-weight: 900;
+}
+
+
 /* CONTACT */
 
 #contact {
