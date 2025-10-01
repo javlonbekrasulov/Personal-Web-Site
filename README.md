@@ -1,6 +1,6 @@
 # Personal Website – Javlonbek Rasulov
 
-**Demo video:** [https://youtu.be/N2YF1gDxeaI?si=d8rTtTk7h9iza-DF](https://youtu.be/N2YF1gDxeaI?si=d8rTtTk7h9iza-DF)  
+**Demo video:** [Youtube video (old update)](https://youtu.be/N2YF1gDxeaI?si=d8rTtTk7h9iza-DF)  
 
 ## Introduction
 In today’s world, having a personal website has become a necessity for showcasing one’s skills, experiences, and personal identity.  
