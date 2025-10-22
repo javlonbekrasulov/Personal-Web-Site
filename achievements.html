@@ -71,10 +71,41 @@
                 <img
                   src="./assets/checkmark.png"
                   alt="Edu icon"
-                  class="icon"
-                />
+                  class="icon"/>
                 <div>
-                  <h3>Uzbek</h3>
+                  <h3>
+                  <span class="tooltip">Uzbek
+                      <h6><span class="tooltip-text">I was born in Uzbekistan!</span></h6>
+                  </span>
+                  </h3>
+                  <style>
+                  .tooltip {
+                    position: relative;
+                    cursor: pointer;
+                  }
+
+                  .tooltip .tooltip-text {
+                    visibility: hidden;
+                    width: 120px;
+                    background-color: black;
+                    color: white;
+                    text-align: center;
+                    border-radius: 4px;
+                    padding: 5px;
+                    position: absolute;
+                    z-index: 1;
+                    bottom: 125%; /* position above the word */
+                    left: 50%;
+                    transform: translateX(-50%);
+                    opacity: 0;
+                    transition: opacity 0.3s;
+                  }
+
+                  .tooltip:hover .tooltip-text {
+                    visibility: visible;
+                    opacity: 1;
+                  }
+                  </style>
                   <p>Native</p>
                 </div>
               </article>
@@ -154,7 +185,7 @@
           </ul>
         </div>
       </nav>
-      <p>Copyright &#169; 2025 J.R.</p>
+      <p>Copyright &#169; 2025 Javlonbek Rasulov.</p>
     </footer>
     <script src="script.js"></script>
   </body>
