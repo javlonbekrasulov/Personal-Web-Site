@@ -109,6 +109,7 @@ a:hover {
   max-height: 0;
   overflow: hidden;
   transition: all 0.3 ease-in-out;
+  text-decoration: underline 1px;
 }
 
 .menu-links a {
@@ -411,10 +412,12 @@ article .icon {
 /* FOOTER SECTION */
 
 footer {
-  height: 26vh;
-  margin: 0 1rem;
+  height: 0vh;
+  margin: 10 0.1rem;;
 }
 
 footer p {
   text-align: center;
+  background-color: grey;
+  color : #F7F7F7;
 }
