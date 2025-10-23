@@ -421,3 +421,73 @@ footer p {
   background-color: grey;
   color : #F7F7F7;
 }
+
+/* EDUTAINMENT PAGE */
+
+.title-edutainment {
+  font-size: 2rem;
+  text-align: center;
+  margin-top: 4rem;
+  margin-bottom: 2rem;
+}
+
+.resource-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.resource-img {
+  height: 150px;
+  width: auto;
+  float: left;
+  margin-right: 10px;
+}
+
+.resource-title {
+  font-size: 1.2rem;
+  margin-bottom: 0.3rem;
+}
+
+.resource-author {
+  font-size: 0.9rem;
+  color: rgb(120, 120, 120);
+  margin-top: 0.2rem;
+  justify-content: left;
+}
+
+.essay-title {
+  font-size: 1rem;
+  margin-bottom: 0.3rem;
+  text-decoration: underline 1px;
+}
+
+.resource {
+  display: flex;
+  margin-bottom: 3px;
+  margin-left: 3px;
+  width: 22rem;
+  border-radius: 2rem;
+  border: rgb(53, 53, 53) 0.1rem solid;
+  border-color: rgb(163, 163, 163);
+  background: (250, 250, 250);
+  background-color: white;
+  margin: 0.2rem auto;
+  padding: 1rem;
+}
+
+.essay-link:hover .essay-title:hover {
+  color: #BEBFC5;
+  text-decoration: none;
+}
+
+.essay-link{
+  padding-right: 15px;
+}
+
+.tobe {
+  text-align: center;
+  color: grey;
+  margin-top: 2rem;
+  margin-bottom: 4rem;
+}
