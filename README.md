@@ -26,6 +26,3 @@ A simple, responsive personal website built with HTML, CSS and JavaScript. The s
 - style.css — main styles
 - mediaqueries.css — responsive rules
 - script.js — site interactivity
-
-## License / Notes
-Free to use and modify for personal projects. Replace demo links and personal information before sharing publicly.
